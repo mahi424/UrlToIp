@@ -16,5 +16,5 @@ res=string.replace(temp,base,ip)
 # msgbox(new)
 
 res="http://"+res
-print res
+# print res
 webbrowser.open(res)
